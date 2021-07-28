@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ice-cream/static/css/main.c4d8bc6a.chunk.css",
+    "main.js": "/ice-cream/static/js/main.4cb917a4.chunk.js",
+    "main.js.map": "/ice-cream/static/js/main.4cb917a4.chunk.js.map",
+    "runtime-main.js": "/ice-cream/static/js/runtime-main.2a22483b.js",
+    "runtime-main.js.map": "/ice-cream/static/js/runtime-main.2a22483b.js.map",
+    "static/js/2.a25d6029.chunk.js": "/ice-cream/static/js/2.a25d6029.chunk.js",
+    "static/js/2.a25d6029.chunk.js.map": "/ice-cream/static/js/2.a25d6029.chunk.js.map",
+    "static/js/3.471c6e63.chunk.js": "/ice-cream/static/js/3.471c6e63.chunk.js",
+    "static/js/3.471c6e63.chunk.js.map": "/ice-cream/static/js/3.471c6e63.chunk.js.map",
+    "index.html": "/ice-cream/index.html",
+    "static/css/main.c4d8bc6a.chunk.css.map": "/ice-cream/static/css/main.c4d8bc6a.chunk.css.map",
+    "static/js/2.a25d6029.chunk.js.LICENSE.txt": "/ice-cream/static/js/2.a25d6029.chunk.js.LICENSE.txt",
+    "static/media/logo.bb4cecdf.svg": "/ice-cream/static/media/logo.bb4cecdf.svg",
+    "static/media/react.e68b35f4.svg": "/ice-cream/static/media/react.e68b35f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a22483b.js",
+    "static/js/2.a25d6029.chunk.js",
+    "static/css/main.c4d8bc6a.chunk.css",
+    "static/js/main.4cb917a4.chunk.js"
+  ]
+}
